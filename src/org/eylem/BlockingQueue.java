@@ -1,4 +1,4 @@
-package org.kodluyoruz;
+package org.eylem;
 
 public class BlockingQueue<T> implements Queue<T> {
 

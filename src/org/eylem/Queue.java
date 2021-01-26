@@ -1,4 +1,4 @@
-package org.kodluyoruz;
+package org.eylem;
 
 public interface Queue<T> {
     void add(T value);

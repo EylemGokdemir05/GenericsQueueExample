@@ -1,6 +1,4 @@
-package org.kodluyoruz;
-
-import java.util.LinkedList;
+package org.eylem;
 
 public class Main {
 
